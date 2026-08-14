@@ -1,0 +1,15 @@
+HOTELabassi,3,0
+parvane,2,1
+pars,4 , 1
+dolfin,2 , 1
+sadaf,3 , 2
+bolbol,2 , 0
+nastaran,2 , 2
+fanoos,2 , 2
+hafez,4 , 2
+alale,3 , 1
+iran,2 , 2
+kavir,3 , 2
+keshvar,3 , 2
+hafez,4 , 0
+sadi,3 , 0
